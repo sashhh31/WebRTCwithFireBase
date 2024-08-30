@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99"
-  }
+    "default": "fir-rtc-89b99",
+    "Default": "fir-rtc-8de35"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
